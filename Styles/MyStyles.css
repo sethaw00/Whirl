@@ -1,0 +1,22 @@
+.bold{
+    font-weight:bold;
+}
+
+.italics{
+    font-style: italic;
+}
+
+.nobold
+{
+    font-weight: normal;
+}
+
+.indent{
+    text-indent: 200px;
+
+}
+
+.hugefont{
+    font-weight: bolder;
+    font-size: 24px
+}
